@@ -18,7 +18,8 @@ const featureWork = [
         title: "Fullstack Developer at Kids World",
         description: "Created a distinctive visual identity and design language to build trust and empathy for a forward-thinking health care provider.",
         roles: ["Backend Developer", "Devops Engineer"],
-        image: "/images/feature-work/images/feature-img-3.png"
+        image: "/images/feature-work/feature-img-3.png"
+
     }
 ]
 
