@@ -6,6 +6,7 @@ const featureWork = [
         description: "Developed a modern brand identity and a responsive web experience tailored for a professional cleaning company, focused on clarity and usability.",
         roles: ["Backend Developer", "Devops Engineer"],
         image: "/images/feature-work/feature-img-1.png"
+        /* Image */
     },
     {
         title: "Lead Developer at HelthCloud",
