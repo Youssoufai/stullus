@@ -66,7 +66,7 @@ const experienceData = [
 const educationData = [
     {
         date: "Sep 2015 - May 2019",
-        title: "B.Sc. in BioChemistry",
+        title: "B.Sc. in Computer Science",
         subtitle: "Katsina State University — Katsina, Nigeria"
     },
 ];
