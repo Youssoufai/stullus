@@ -26,7 +26,8 @@ const featureWork = [
         title: "Fullstack Developer at Thrive Agric",
         description: "Thrive Agric is an agritech company based in Nigeria. Its mission is to build a network of profitable smallholder farmers by giving them access to inputs, finance, best practices, and markets.",
         roles: ["Backend Developer", "Devops Engineer"],
-        image: "/images/feature-work/skupi.png"
+        image: "/images/feature-work/feature-img-4.png"
+
 
     }
 ]
