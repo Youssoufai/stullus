@@ -12,8 +12,9 @@ const featureWork = [
             title: "Lead Developer at HelthCloud",
             description: "Created a distinctive visual identity and design language to build trust and empathy for a forward-thinking health care provider.",
             roles: ["Backend Developer", "Mobile Developer"],
-            image: "/images/feature-work/feature-img-2.png"
+            image: "/images/feature-work/feature-img-2.png"ghghgh
         }, */
+
     {
         title: "Fullstack Developer at Kids World",
         description: "Created a distinctive visual identity and design language to build trust and empathy for a forward-thinking health care provider.",
